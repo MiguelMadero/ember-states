@@ -1,5 +1,7 @@
 # Ember States [![Build Status](https://travis-ci.org/emberjs/ember-states.png)](https://travis-ci.org/emberjs/ember-states)
 
+The Ember States API: state machine built for Ember.
+
 ## Up and running in less than a minute
 
 1. Download the [latest build](http://builds.emberjs.com/ember-states/latest/ember-states.js).
